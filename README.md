@@ -13,7 +13,7 @@ My background is in electronic music and sound design, which often finds its way
 ## Selected work
 
 <a href="https://tonemap.online">
-  <img src="./assets/tonemap-banner.png" alt="Tonemap — audio analysis and reference discovery" width="100%" />
+  <img src="./tonemap-banner.png" alt="Tonemap — audio analysis and reference discovery" width="100%" />
 </a>
 
 ### Tonemap
@@ -27,7 +27,7 @@ Find commercial reference tracks that match an uploaded mix using browser-based 
 <br />
 
 <a href="https://64squares.xyz">
-  <img src="./assets/64-squares-banner.png" alt="64 Squares — chess and generative music" width="100%" />
+  <img src="./64-squares-banner.png" alt="64 Squares — chess and generative music" width="100%" />
 </a>
 
 ### 64 Squares
@@ -41,7 +41,7 @@ A real-time multiplayer chess application where every move generates sound, turn
 <br />
 
 <a href="https://github.com/giacomofargion/quote-tracker">
-  <img src="./assets/quotereality-banner.png" alt="QuoteReality — time tracking and project profitability" width="100%" />
+  <img src="./quotereality-banner.png" alt="QuoteReality — time tracking and project profitability" width="100%" />
 </a>
 
 ### QuoteReality
@@ -55,7 +55,7 @@ A full-stack time tracker for fixed-price freelance projects that shows how quot
 <br />
 
 <a href="https://fargion-sequencer.vercel.app/">
-  <img src="./assets/fargion-sequencer-banner.png" alt="Fargion Sequencer — real-time collaborative music making" width="100%" />
+  <img src="./fargion-sequencer-banner.png" alt="Fargion Sequencer — real-time collaborative music making" width="100%" />
 </a>
 
 ### Fargion Sequencer
