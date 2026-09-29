@@ -1,8 +1,8 @@
 # Giacomo Fargion
 
-### Full-stack developer building creative tools and interactive web applications.
+### Full-stack developer building creative software, audio tools and real-time web applications.
 
-I build with **TypeScript, React and Next.js**, with particular interests in audio technology, real-time applications and thoughtful user interfaces.
+I work mainly with **TypeScript, React and Next.js**, with particular interests in audio technology, real-time systems and thoughtful user interfaces.
 
 My background is in electronic music and sound design, which often finds its way into the software I build.
 
@@ -12,47 +12,55 @@ My background is in electronic music and sound design, which often finds its way
 
 ## Selected work
 
-### 🎧 Tonemap
+<a href="https://tonemap.online">
+  <img src="./assets/tonemap-banner.png" alt="Tonemap — audio analysis and reference discovery" width="100%" />
+</a>
 
-**Find commercial reference tracks that match an uploaded mix.**
+### Tonemap
 
-Tonemap analyses audio in the browser, identifies genre and sonic characteristics, searches commercial music sources, and ranks candidate reference tracks by similarity.
+Find commercial reference tracks that match an uploaded mix using browser-based audio analysis, genre tagging and similarity ranking.
 
 **Next.js · TypeScript · Essentia.js · Discogs-EffNet · Neon · Clerk · Stripe · Cloudflare R2**
 
 [Live site →](https://tonemap.online) · [Repository →](https://github.com/giacomofargion/referencer)
 
----
+<br />
 
-### ♟️ 64 Squares
+<a href="https://64squares.xyz">
+  <img src="./assets/64-squares-banner.png" alt="64 Squares — chess and generative music" width="100%" />
+</a>
 
-**A real-time multiplayer chess application where every move creates music.**
+### 64 Squares
 
-Chess moves trigger a mapped system of pitches and timbres, creating an evolving musical composition while two players compete online.
+A real-time multiplayer chess application where every move generates sound, turning the game into an evolving musical composition.
 
 **Next.js · TypeScript · Supabase Realtime · Tone.js · Zustand · chess.js**
 
 [Live site →](https://64squares.xyz) · [Repository →](https://github.com/giacomofargion/64-squares)
 
----
+<br />
 
-### ⏱️ QuoteReality
+<a href="https://github.com/giacomofargion/quote-tracker">
+  <img src="./assets/quotereality-banner.png" alt="QuoteReality — time tracking and project profitability" width="100%" />
+</a>
 
-**A full-stack time tracker for freelancers working on fixed-price projects.**
+### QuoteReality
 
-Track time against project quotes and see the effective hourly rate change as the work progresses.
+A full-stack time tracker for fixed-price freelance projects that shows how quoted work translates into an effective hourly rate.
 
-**Next.js · TypeScript · Neon PostgreSQL · Clerk · Zustand · Zod**
+**Next.js · TypeScript · Neon PostgreSQL · Clerk · Zustand · React Hook Form · Zod**
 
 [Repository →](https://github.com/giacomofargion/quote-tracker)
 
----
+<br />
 
-### 🎛️ Fargion Sequencer
+<a href="https://fargion-sequencer.vercel.app/">
+  <img src="./assets/fargion-sequencer-banner.png" alt="Fargion Sequencer — real-time collaborative music making" width="100%" />
+</a>
 
-**A real-time collaborative step sequencer for making music together in the browser.**
+### Fargion Sequencer
 
-Shared rooms combine drum and synth sequencing, live controls, chat and recording.
+A browser-based collaborative step sequencer with shared rooms, live controls, chat and recording.
 
 **Next.js · TypeScript · Supabase Realtime · Tone.js**
 
@@ -64,7 +72,7 @@ Shared rooms combine drum and synth sequencing, live controls, chat and recordin
 
 **Frontend** — TypeScript, JavaScript, React, Next.js, Tailwind CSS  
 **Backend & data** — PostgreSQL, Supabase, Neon, REST APIs  
-**Creative / realtime** — Tone.js, Essentia.js, Three.js, GSAP, Supabase Realtime  
+**Creative & realtime** — Tone.js, Essentia.js, Three.js, GSAP, Supabase Realtime  
 **Tools** — Git, GitHub, Vercel, Playwright  
 **Currently learning** — AWS
 
@@ -72,6 +80,6 @@ Shared rooms combine drum and synth sequencing, live controls, chat and recordin
 
 ## Background
 
-Before moving into software development, I studied electronic music at the Guildhall School of Music & Drama and worked across composition, production and audio engineering.
+Before moving into software development, I studied electronic music at the **Guildhall School of Music & Drama** and worked across composition, production and audio engineering.
 
-That background still shapes the software I build — particularly projects involving **audio, interaction, real-time systems and creative tools**.
+That background continues to shape the software I build, particularly projects involving **audio, interaction, real-time systems and creative tools**.
